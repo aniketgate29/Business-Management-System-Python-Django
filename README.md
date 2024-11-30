@@ -1,2 +1,2 @@
-# inventory-management
-This is a inventory management system
+# Business-management
+This is a business management system
